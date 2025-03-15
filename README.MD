@@ -7,21 +7,23 @@ _A test plugin for `local_quacker` in Moodle_
 
 
 ## 🚀 Implements and tests
-✔️ lib.php callbacks
-✔️ Scheduled tasks
-✔️ Custom Events
-✔️ Event observers
-✔️ Moodle cache
-✔️ Capabilities
-✔️ Lang strings
-✔️ Autoloading
-✔️ Plugin settings
-✔️ install.php
-✔️ Plugin configs
-✔️ Unit tests
-✔️ Privacy provider
-❌ upgrade.php
-❌ uninstall.php
+- ✔️ lib.php callbacks
+- ✔️ Scheduled tasks
+- ✔️ Custom Events
+- ✔️ Event observers
+- ✔️ Moodle cache
+- ✔️ Capabilities
+- ✔️ Lang strings
+- ✔️ Autoloading
+- ✔️ Plugin settings
+- ✔️ install.php
+- ✔️ Plugin configs
+- ✔️ PHPUnit tests
+- ✔️ Privacy provider
+- ✔️ Plugin renderer
+- ✔️ Mustache templates
+- ❌ upgrade.php
+- ❌ uninstall.php
 
 ## 🛠 Installation  
 1. **Download or clone** this repository into your Moodle installation:  
