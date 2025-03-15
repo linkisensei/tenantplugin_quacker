@@ -1,12 +1,10 @@
 # 🦆 Tenantplugin Quacker 🦆  
 _A test plugin for `local_quacker` in Moodle_  
 
----
 
 ## 📌 What is this?  
 `tenantplugin_quacker` is a **Moodle plugin** designed **exclusively** as a test for another plugin: `local_quacker`.  
 
----
 
 ## 🚀 Implements and tests
 ✔️ lib.php callbacks
@@ -25,8 +23,6 @@ _A test plugin for `local_quacker` in Moodle_
 ❌ upgrade.php
 ❌ uninstall.php
 
----
-
 ## 🛠 Installation  
 1. **Download or clone** this repository into your Moodle installation:  
    ```sh
@@ -36,7 +32,6 @@ _A test plugin for `local_quacker` in Moodle_
 3. **Run the plugin installation** via Moodle’s upgrade system  
 4. 🦆 **Start quacking!** 🦆  
 
----
 
 ## 🧪 Running Tests  
 To run PHPUnit tests for `tenantplugin_quacker`, use:  
@@ -46,18 +41,15 @@ php admin/tool/phpunit/cli/init.php
 vendor/bin/phpunit --testsuite=tenantplugin_testsuite
 ```
 
----
-
 ## 🔗 Related Projects  
 - [`local_tenant`](https://github.com/linkisensei/local_tenant) – The real deal, this is what `tenantplugin_quacker` is helping to test!  
 
----
 
 ## 🦆 Why Ducks?  
 Because **every great developer** needs a rubber duck for debugging!  
 And because **quacking is the sound of innovation**.  
 
----
+
 
 ### 🦆 Happy Quacking! 🦆  
 🚀💻🎯  
