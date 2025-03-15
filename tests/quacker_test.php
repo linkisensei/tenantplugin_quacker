@@ -101,4 +101,9 @@ final class quacker_test extends advanced_testcase {
         global $DB;
         $this->assertTrue($DB->get_manager()->table_exists('tenantplugin_quackers'));
     }
+
+    public function test_privacy_metadata(){
+        $manager = new \core_privacy\manager();
+        $this->assertTrue($manager->component_is_compliant('tenantplugin_quacker'));
+    }
 }

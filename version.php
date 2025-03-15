@@ -21,6 +21,7 @@
  *
  * @package    tenantplugin_quacker
  * @copyright  2025 Lucas barreto <lucas.b.fisica@gmail.com>
+ * @link https://github.com/linkisensei/local_tenant
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
@@ -29,6 +30,6 @@ defined('MOODLE_INTERNAL') || die();
 $plugin->component    = 'tenantplugin_quacker';
 $plugin->release      = '1.0';
 $plugin->version      = 2025031401;
-$plugin->requires     = 2023042400;
-$plugin->supported    = [402, 405];
+$plugin->requires     = 2022041900;
+$plugin->supported    = [400, 405];
 $plugin->maturity     = MATURITY_STABLE;

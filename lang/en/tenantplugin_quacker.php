@@ -8,3 +8,4 @@ $string['quacker:canquack'] = "Can quack";
 $string['defaultquacks'] = 'Default number of quacks';
 $string['defaultquacks_desc'] = 'The default number of quacks to use in the quacking task';
 $string['thequackingtask'] = 'The Quacking Task';
+$string['privacy:metadata'] = 'Quackers don\'t store user information! Ducks can\'t read!';
