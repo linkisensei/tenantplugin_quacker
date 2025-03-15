@@ -51,6 +51,4 @@ And because **quacking is the sound of innovation**.
 
 
 
-### 🦆 Happy Quacking! 🦆  
-🚀💻🎯  
-
+### 🦆 Happy Quacking! 🦆
