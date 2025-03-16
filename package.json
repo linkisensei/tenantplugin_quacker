@@ -1,0 +1,22 @@
+{
+  "name": "quacker",
+  "version": "1.0.0",
+  "description": "_A test plugin for `local_quacker` in Moodle_",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linkisensei/tenantplugin_quacker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/linkisensei/tenantplugin_quacker/issues"
+  },
+  "homepage": "https://github.com/linkisensei/tenantplugin_quacker#readme"
+}
